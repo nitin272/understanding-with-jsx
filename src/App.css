@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    /* Add any additional styles for the h1 tag here */
+  }
+  
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+  }
+  
+  .gallery-img {
+    width: 300px; 
+    height: auto; 
+    margin: 20px;
+    
+  }
+  
